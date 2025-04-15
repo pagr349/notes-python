@@ -1,6 +1,6 @@
 # 📝 Notes App with Kivy
 
-A desktop notes app built using Python and Kivy. Users can sign up, log in, and manage their notes — all with a purple-themed UI.
+A desktop notes GUI built using Python and Kivy. Users can sign up, log in, and manage their notes — all with a purple-themed UI.
 
 ## 📦 Features
 - Sign up & login with hashed passwords
